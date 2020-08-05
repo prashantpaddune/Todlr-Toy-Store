@@ -1,30 +1,40 @@
-# Todlr Toy Store System
+# Section-1-Team-1
+Section-1-Team-1 Repository
 
-# Installation
+This repository is currently organized into 9 folders:
+	
+	1.	Administrators Manual
+		
+			Contains the Administrators Manual
+	
+	2.	Code Inspection Report
+			
+			Contains the Code Inspection Report Document
+			
+	3.	Code
+	
+			Contains the Code and implementation for the project
 
-1>Install XAMPP or WAMPP.
-
-2>Open XAMPP Control panal and start [apache] and [mysql] .
-
-3>Download This Project
-    
-4>Extract files in C:\\xampp\htdocs\.
-
-5>Open link localhost/phpmyadmin
-
-6>Click on new at side navbar.
-
-7>Give a database name as (todlr) hit on create button.
-
-8>After creating database name click on import.
-
-9>Browse the file in directory[Todlr-Toy-Store/database/todlr.sql].
-
-10>After importing successfully.
-
-11>Open any browser and type http://localhost/Todlr-Toy-Store.
-
-12>First register and then login
-
-13>Admin login details  Email=admin@gmail.com and Password=123456789.
-
+	4.	Grades
+		
+			Contains our grades for each spiral
+	
+	5.	Presentation
+	
+			Contains the files for presenting and giving demos each Spiral
+			
+	6.	System Design
+			
+			Contains the System Design Document and Template
+	
+	7.	System Requirements
+			
+			Contains the Use Cases and System Requirements Document
+	
+	8.	Testing Report
+			
+			Contains the Testing Report Document
+	
+	9.	UI Design
+	
+			Contains the UI Design Document
